@@ -1,0 +1,17 @@
+  .card-cadastro {
+      margin-top: 50px;
+      text-align: -webkit-center;
+      max-width: 800px;
+  }
+  
+  .card-form {
+      margin-top: 10px;
+     width: 90%;
+  }
+  .mat-button{
+      margin-top: 10px;
+    width: 90%;
+    color: white;
+    height: 40px;
+    background-color: green;
+  }
